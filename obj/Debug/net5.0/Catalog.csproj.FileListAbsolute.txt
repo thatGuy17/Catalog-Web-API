@@ -27,3 +27,15 @@ W:\Projects\Catalog\obj\Debug\net5.0\Catalog.dll
 W:\Projects\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 W:\Projects\Catalog\obj\Debug\net5.0\Catalog.pdb
 W:\Projects\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+W:\Projects\Catalog\bin\Debug\net5.0\DnsClient.dll
+W:\Projects\Catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+W:\Projects\Catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+W:\Projects\Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+W:\Projects\Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+W:\Projects\Catalog\bin\Debug\net5.0\SharpCompress.dll
+W:\Projects\Catalog\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+W:\Projects\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+W:\Projects\Catalog\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+W:\Projects\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+W:\Projects\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+W:\Projects\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
